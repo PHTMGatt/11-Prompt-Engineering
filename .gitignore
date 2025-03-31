@@ -1,0 +1,4 @@
+/Develop/.env
+/Develop/node_modules
+/Develop/package-lock.json
+*.env
